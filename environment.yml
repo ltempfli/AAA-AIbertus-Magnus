@@ -1,4 +1,4 @@
-name: tf
+name: tf-gpu
 channels:
   - conda-forge
   - defaults
@@ -293,4 +293,3 @@ dependencies:
   - zipp=3.15.0=pyhd8ed1ab_0
   - zlib=1.2.13=h2466b09_6
   - zstd=1.5.6=h0ea2cb4_0
-prefix: C:\Users\lukas\miniconda3\envs\tf
