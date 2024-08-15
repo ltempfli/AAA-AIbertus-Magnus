@@ -9,3 +9,4 @@ dependencies:
   - matplotlib
   - geopandas
   - h3-py
+  - jupyter
