@@ -14,6 +14,6 @@ In order to execute the file, the following order should be adhered to:
 5. Afterwards, 01_Data_Preparation.ipynb has to be executed to get the data for the next tasks
 6. The remaining notebooks can be executed separately
 
-We created environment_yml for each task separately 
+We created environment_yml for each task separately.
 
-All notebooks have been developed on windows so executing them on another operating sytem might cause unexpected behavior
+All notebooks have been developed on windows so executing them on another operating sytem might cause unexpected behavior.
