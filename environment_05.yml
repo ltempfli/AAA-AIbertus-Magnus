@@ -1,0 +1,11 @@
+name: Reinforcement_Learning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch
+  - gym
+  - numpy
+  - pandas
+  - plotly
+  - matplotlib
