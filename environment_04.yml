@@ -18,7 +18,7 @@ dependencies:
   - dask=2024.7.1
   - dask_ml=2024.4.4
   - matplotlib=3.9.1
-  - seabron=seaborn=0.13.2
+  - seaborn=0.13.2
   - pip
   - pip:
       - tensorflow<2.11
