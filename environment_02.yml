@@ -1,0 +1,13 @@
+name: Descriptive_Analytics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - geopandas
+  - folium
+  - h3-py
+  - jupyter

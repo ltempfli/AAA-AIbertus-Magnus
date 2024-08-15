@@ -1,0 +1,12 @@
+name: Data_Preparation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - geopandas
+  - h3-py
+  - jupyter

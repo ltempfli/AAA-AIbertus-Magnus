@@ -1,0 +1,25 @@
+name: tf-gpu
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - cudatoolkit=11.2
+  - cudnn=8.1.0
+  - scikit-learn=1.5.1
+  - pandas=2.2.2
+  - geopandas=1.0.1
+  - h3-py=3.7.7
+  - jupyter=1.0.0
+  - joblib=1.4.2
+  - plotly=5.23.0
+  - shap=0.45.1
+  - lime=0.2.0.1
+  - dask=2024.7.1
+  - dask_ml=2024.4.4
+  - matplotlib=3.9.1
+  - seaborn=0.13.2
+  - pip
+  - pip:
+      - tensorflow<2.11
+      - kaleido
