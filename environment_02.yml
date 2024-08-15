@@ -10,3 +10,4 @@ dependencies:
   - geopandas
   - folium
   - h3-py
+  - jupyter
